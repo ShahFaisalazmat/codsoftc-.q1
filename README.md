@@ -1,5 +1,5 @@
-# codsoftc-.q1
-IT IS C++ TASK GIVEN TO ME BY CODSOFT IN MY INTERNSHIP
+//# codsoftc-.q1
+//IT IS C++ TASK GIVEN TO ME BY CODSOFT IN MY INTERNSHIP
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
